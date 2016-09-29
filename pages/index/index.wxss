@@ -1,0 +1,6 @@
+.window{
+    color: #49bb16;
+}
+.window-red{
+    color:#D23933;
+}

@@ -1,0 +1,3 @@
+<view>
+    <text catchtap="click" class="{{color}}">Hello</text>
+</view>
